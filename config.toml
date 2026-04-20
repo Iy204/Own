@@ -31,7 +31,7 @@ uptodown-durl = "https://facebook.en.uptodown.com/android"
 
 [Instagram]
 patches-source = "crimera/piko"
-patches-version = "dev"
+patches-version = "latest"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Threads] 
