@@ -1,5 +1,5 @@
-Instagram (arm64-v8a): 423.0.0.47.66  
+Instagram (arm64-v8a): 426.0.0.37.68  
 
   
-Patches: crimera/patches-3.3.0-dev.1.mpp  
-[Changelog](https://github.com/crimera/piko/releases/tag/v3.3.0-dev.1)  
+Patches: crimera/patches-3.3.0-dev.2.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.3.0-dev.2)  
