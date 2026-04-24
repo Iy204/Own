@@ -358,14 +358,15 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 <details>
-<summary id="Instagram">&emsp;<a href="https://github.com/Iy204/Own/releases/download/1/instagram-crimera-v423.0.0.47.66-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v423.0.0.47.66-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<summary id="Instagram">&emsp;<a href="https://github.com/Iy204/Own/releases/download/2/instagram-crimera-v426.0.0.37.68-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v426.0.0.37.68-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
    
-[Module (.zip)](https://github.com/Iy204/Own/releases/download/1/instagram-crimera-module-v423.0.0.47.66-arm64-v8a.zip)
+[Module (.zip)](https://github.com/Iy204/Own/releases/download/2/instagram-crimera-module-v426.0.0.37.68-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-20](https://github.com/Iy204/Own/releases/tag/1)<br>
-Patches: [crimera/patches-3.3.0-dev.1.mpp](https://github.com/crimera/piko/releases/tag/v3.3.0-dev.1)
+[Release 2026-04-24](https://github.com/Iy204/Own/releases/tag/2)<br>
+Patches: [crimera/patches-3.3.0-dev.2.mpp](https://github.com/crimera/piko/releases/tag/v3.3.0-dev.2)
 - Add settings
+- Amoled theme
 - Change version code
 - Copy comment
 - Customise story timestamp
@@ -375,10 +376,12 @@ Patches: [crimera/patches-3.3.0-dev.1.mpp](https://github.com/crimera/piko/relea
 - Disable comments
 - Disable discover people
 - Disable explore
+- Disable highlights
 - Disable screenshot detection
 - Disable stories
 - Disable story flipping
 - Disable typing status
+- Disable video autoplay
 - Download media
 - Follow back indicator
 - Hide group creation button on sharesheet
@@ -395,6 +398,7 @@ Patches: [crimera/patches-3.3.0-dev.1.mpp](https://github.com/crimera/piko/relea
 - Remove build expired popup
 - Remove empty bottom space
 - Sanitize share links
+- Stories audio autoplay
 - Unlock developer options
 - View DMs anonymously
 - View live anonymously
